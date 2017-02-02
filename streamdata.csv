@@ -1,0 +1,1234 @@
+I-74 NB from 12th Ave to 7th Ave,operational
+I-74 NB from 7th Ave to 4th Ave,operational
+I-74 NB from 4th Ave to 1st Ave,operational
+I-74 NB from 1st Ave to Toll Pla,operational
+I-74 NB from Toll Plaza to South,operational
+I-74 NB from South Tower to Nort,failed
+I-74 NB from North Tower to Isle,operational
+I-74 NB from Isle Park to Holmes,operational
+I-74 NB from Lincoln to Middle,operational
+I-74 NB from Spruce Hills to Cro,operational
+I-74 NB from Middle to Spruce Hi,operational
+I-74 SB from 46th to Kimberly,operational
+I-74 NB from Crow Creek to 53rd,operational
+I-74 SB from 53rd to 46th,operational
+I-74 SB from Kimberly to Middle,operational
+I-74 SB from Middle to Lincoln,operational
+I-74 SB from Holmes to Isle Park,operational
+I-74 SB from Isle Parkway to Nor,failed
+I-74 SB from North Tower to Sout,operational
+I-74 SB from South Tower to Toll,operational
+I-74 SB from Toll Plaza to 1st A,operational
+I-74 SB from 1st Ave to 4th Ave,operational
+I-74 SB from 4th Ave to 7th Ave,operational
+I-74 SB from 7th Ave to 12th Ave,operational
+I-74 SB from 12th Ave to Ave of ,operational
+I-74 NB from Holmes to Lincoln,operational
+I-74 SB from Lincoln to Holmes,operational
+QCDS-19-WB,operational
+QCDS-20-WB,operational
+QCDS-21-WB Ramp,operational
+QCDS-22-WB,operational
+QCDS-20-WB Ramp,operational
+QCDS-23-WB,operational
+QCDS-23-EB,operational
+QCDS-22-EB,operational
+QCDS-20-EB,operational
+QCDS-19-EB,operational
+QCDS-24-EB,off
+QCDS-24-EB,off
+QCDS-25-EB,operational
+QCDS-25-WB,operational
+DMTT05-EB,off
+DMTT05-WB,off
+I-74 SB from 4th Ave to 7th Ave ,operational
+ I-74 NB from 7th Ave to 4th Ave,operational
+I-74 SB from 1st Ave to 4th Ave ,operational
+IWZ3546-WB                      ,off
+IWZ3546-EB                      ,off
+IWZ3553-WB                      ,off
+IWZ3553-EB                      ,off
+IWZ3545-EB                      ,off
+IWZ3545-WB                      ,off
+IWZ3551-WB                      ,off
+IWZ3551-EB                      ,off
+IWZ3080-NB                      ,off
+IWZ3080-SB                      ,off
+IWZ3068-WB                      ,off
+IWZ3068-EB                      ,off
+IWZ3076-EB                      ,off
+IWZ3076-WB                      ,off
+IWZ3077-WB                      ,off
+IWZ3077-EB                      ,off
+IWZ3078-EB                      ,off
+IWZ3078-WB                      ,off
+IWZ3079-EB                      ,off
+IWZ3079-WB                      ,off
+IWZ3088-WB                      ,off
+IWZ3088-EB                      ,off
+IWZ3542-EB                      ,off
+IWZ3542-WB                      ,off
+I-380 CRDS01 NB,operational
+I-380 CRDS01 SB,operational
+I-380 CRDS02 SB,operational
+I-380 CRDS02 NB,operational
+I-380 CRDS03 NB,operational
+I-380 CRDS03 SB,operational
+I-380 CRDS04 NB,operational
+I-380 CRDS04 SB,operational
+I-380 CRDS04 NB Ramp,operational
+I-380 CRDS05 NB,operational
+I-380 CRDS05 SB,operational
+I-380 CRDS06 NB,operational
+I-380 CRDS06 SB,operational
+I-380 CRDS07 Ramp RL,operational
+I-380 CRDS08 NB,operational
+I-380 CRDS08 SB,operational
+I-380 CRDS08 SB Ramp,operational
+I-380 CRDS09 NB,operational
+I-380 CRDS09 SB,operational
+I-380 CRDS09 NB Ramp,operational
+I-380 CRDS09 SB Ramp,operational
+I-380 CRDS10 NB,operational
+I-380 CRDS10 SB,operational
+I-380 CRDS10 NB Ramp,operational
+I-380 CRDS10 SB Ramp,operational
+I-380 CRDS11 NB,operational
+I-380 CRDS11 SB,operational
+I-380 CRDS11 NB Ramp,operational
+I-380 CRDS11 SB Ramp,operational
+I-380 CRDS12 NB,operational
+I-380 CRDS12 SB,operational
+I-380 CRDS12 NB Ramp,operational
+I-380 CRDS12 SB Ramp,operational
+I-380 CRDS13 NB,operational
+I-380 CRDS13 SB,operational
+I-380 CRDS14 NB,operational
+I-380 CRDS14 SB,operational
+I-380 CRDS15 NB,operational
+I-380 CRDS15 NB Ramp,operational
+I-380 CRDS16 SB,operational
+I-380 CRDS17 NB Ramp,operational
+I-380 CRDS19 SB,failed
+I-380 CRDS19 NB,failed
+I-380 CRDS20 NB,operational
+I-380 CRDS20 SB,operational
+I-380 CRDS20 NB Ramp,operational
+I-380 CRDS20 SB Ramp,operational
+I-380 CRDS22 SB,operational
+I-380 CRDS21 NB,operational
+I-380 CRDS23 NB,operational
+I-380 CRDS23 SB,operational
+I-380 CRDS23 NB Ramp,operational
+I-380 CRDS24 NB,operational
+I-380 CRDS24 SB,operational
+I-380 CRDS24 NB Ramp,operational
+I-380 CRDS24 SB Ramp,operational
+I-380 CRDS25 NB,operational
+I-380 CRDS25 SB,operational
+I-380 CRDS25 NB Ramp,operational
+I-380 CRDS25 SB Ramp,operational
+I-380 CRDS26 NB,operational
+I-380 CRDS27 SB,operational
+I-380 CRDS28 NB,failed
+I-380 CRDS28 SB,failed
+I-380 CRDS28 NB Ramp,failed
+I-380 CRDS28 SB Ramp,failed
+I-380 CRDS29 NB,failed
+I-380 CRDS29 SB,failed
+I-380 CRDS29 NB Ramp,failed
+I-380 CRDS29 SB Ramp,failed
+I-380 CRDS30 NB,failed
+I-380 CRDS30 SB,failed
+I-380 CRDS30 NB Ramp,failed
+I-380 CRDS30 SB Ramp,failed
+I-380 CRDS31 NB,operational
+I-380 CRDS31 SB,operational
+I-380 CRDS32 NB,operational
+I-380 CRDS32 SB,operational
+I-380 CRDS32 NB Ramp,operational
+I-380 CRDS32 SB Ramp,operational
+I-380 CRDS33 NB,operational
+I-380 CRDS33 SB,operational
+I-380 CRDS33 NB Ramp,operational
+I-380 CRDS33 SB Ramp,operational
+I-380 CRDS34 NB,operational
+I-380 CRDS34 SB,operational
+I-380 CRDS34 NB Ramp,operational
+I-380 CRDS34 SB Ramp,operational
+I-380 CRDS35 NB,operational
+I-380 CRDS35 SB,operational
+I-380 CRDS36 NB,operational
+I-380 CRDS36 SB,operational
+US 30 CRDS38 EB T,operational
+US 30 CRDS38 WB T,operational
+US 30 CRDS39 EB,operational
+US 30 CRDS39 WB,operational
+US 30 CRDS40 EB,operational
+US 30 CRDS40 WB,operational
+US 30 CRDS40 EB Ramp,operational
+US 30 CRDS41 EB,operational
+US 30 CRDS41 WB,operational
+US 30 CRDS41 EB Ramp,operational
+US 30 CRDS41 WB Ramp,operational
+US 30 CRDS42 EB,operational
+US 30 CRDS42 WB,operational
+US 30 CRDS43 EB,operational
+US 30 CRDS43 WB,operational
+US 30 CRDS44 EB,operational
+US 30 CRDS44 WB,operational
+US 30 CRDS44 EB Ramp,operational
+US 30 CRDS44 WB Ramp,operational
+US 30 CRDS45 EB,operational
+US 30 CRDS45 WB,operational
+US 30 CRDS45 EB Ramp,operational
+US 30 CRDS46 EB,operational
+US 30 CRDS46 WB,operational
+US 30 CRDS46 EB Ramp,operational
+US 30 CRDS46 WB Ramp,operational
+US 30 CRDS47 EB,operational
+US 30 CRDS47 WB,operational
+US 30 CRDS47 EB Ramp,operational
+US 30 CRDS48 EB,operational
+US 30 CRDS48 WB,operational
+US 30 CRDS48 EB Ramp,operational
+US 30 CRDS48 WB Ramp,operational
+US 30 CRDS49 EB,operational
+US 30 CRDS49 WB,operational
+US 30 CRDS49 EB Ramp,operational
+US 30 CRDS50 EB,operational
+US 30 CRDS50 WB,operational
+US 30 CRDS50 EB Ramp,operational
+US 30 CRDS50 WB Ramp,operational
+US 30 CRDS51 EB,operational
+US 30 CRDS51 WB,operational
+US 30 CRDS51 EB Ramp,operational
+US 30 CRDS51 WB Ramp,operational
+US 30 CRDS52 EB,operational
+US 30 CRDS52 WB,operational
+US 30 CRDS53 EB,operational
+US 30 CRDS53 WB,operational
+US 30 CRDS54 EB,operational
+US 30 CRDS54 WB,operational
+US 30 CRDS55 EB,operational
+US 30 CRDS55 WB,operational
+US 30 CRDS55 EB Ramp,operational
+IA 13 CRDS56 NB,operational
+IA 13 CRDS56 SB,operational
+IA 13 CRDS56 NB Ramp,operational
+IA 13 CRDS56 SB Ramp,operational
+US 30 CRDS37 WB,operational
+US 30 CRDS37 EB,operational
+I-380 CRDS07 Ramp LL,operational
+US 30 IWZ 4036 WB,off
+US 30 IWZ 4036 EB,off
+US 30 IWZ 4062 WB,off
+US 30 IWZ 4062 EB,off
+US 30 IWZ 4067 WB,off
+US 30 IWZ 4067 EB,off
+IWZ 629 WB,off
+IWZ 629 EB,off
+IWZ 3086 EB,off
+IWZ 3086 WB,off
+CBDS 22 EB,operational
+CBDS 23 EB,operational
+CBDS 24 EB,operational
+CBDS 25 EB,operational
+CBDS 37 NB,operational
+CBDS 40 NB,operational
+CBDS 41 NB,operational
+CBDS 42 NB,operational
+CBDS 43 NB,operational
+CBDS 34 SB,operational
+CBDS 22 WB,operational
+CBDS 23 WB,operational
+CBDS 24 WB,operational
+CBDS 25 WB,operational
+CBDS 38 SB,operational
+CBDS 40 SB,operational
+CBDS 41 SB,operational
+CBDS 42 SB,operational
+CBDS 43 SB,operational
+CBDS 34 NB,operational
+CBDS 44 NB,operational
+CBDS 45 SB,operational
+CBDS 46 NB,failed
+CBDS 46 SB,failed
+CBDS 47 NB,operational
+CBDS 47 SB,operational
+CBDS 48 NB,operational
+CBDS 48 SB,operational
+CBDS 49 NB,operational
+CBDS 49 SB,operational
+CBDS50 - I-29 NB @ Old Mormon Br,operational
+CBDS50 - I-29 SB @ I-680 WB Off ,operational
+CBDS 51 EB,operational
+CBDS 51 WB,operational
+CBDS 21 WB,operational
+CBDS 21 EB,operational
+CBDS 20 WB,operational
+CBDS 20 EB,operational
+CBDS 32 NB,operational
+CBDS 32 SB,operational
+CBDS 33 NB,operational
+CBDS 33 SB,operational
+CBDS 31 NB,operational
+CBDS 31 SB,operational
+CBDS 36 WB,operational
+CBDS 36 EB,operational
+CBDS 36 EB Ramp to I-29 SB,operational
+CBDS 39 EB,off
+CBDS 39 WB,off
+CBDS 07 I-80 WB,off
+CBDS 02 EB Ramp to I-29 NB,off
+CBDS 01 I-80 EB,operational
+CBDS 01 I-80 WB,operational
+CBDS 27 NB,operational
+CBDS 27 SB,operational
+CBDS 52 NB,operational
+CBDS 52 SB,operational
+CBDS 26 NB,operational
+CBDS 26 SB,operational
+CBDS 29 NB,off
+CBDS 29 SB,off
+CBDS 28 NB,failed
+CBDS 28 SB,failed
+CBDS 19 NB to I-80 EB,operational
+CBDS 18 SB On from I-80 WB,off
+CBDS 30 NB,off
+CBDS 30 SB,off
+CBDS 12 EB,operational
+CBDS 12 WB,operational
+CBDS 17 WB,off
+CBDS 16 EB Thru to I-80 EB,operational
+CBDS 10 EB,operational
+CBDS 10 WB,operational
+CBDS 14 WB,operational
+CBDS 14 EB,operational
+CBDS 05 I-29 NB,off
+CBDS 04 SB Ramp to I-80 WB,operational
+CBDS 04 SB Ramp to I-80 EB,operational
+CBDS 06 EB Ramp from I-29 SB,off
+CBDS 07 I-80 WB Ramp to I-29 NB,off
+CBDS 18 SB from I-80 EB,off
+CBDS 19 NB to I-80 WB,operational
+CBDS 35 SB ramp from I-480 EB,operational
+CBDS 36 WB Ramp from I-29 SB,operational
+CBDS 37 NB Ramp from I-480,operational
+CBDS 51 EB Off Ramp to I-29 SB,operational
+CBDS 35 SB,operational
+CBDS 16 EB Thru to I-29 SB,operational
+CBDS 17 WB from I-29 NB,off
+CBDS 01 I-80 EB to I-29 NB,operational
+CBDS 29 US 275 to I-29 SB,off
+CBDS 30 I-29 SB to US 275,off
+I-29 SB to Nebraska Ave,operational
+Nebraska Ave to I-29 NB,operational
+9th Ave to I-29 SB,operational
+I-29 NB to 9th Ave,operational
+I-29 NB to US 275 EB,off
+CBDS 12 EB Exit Ramp,operational
+CBDS 14 EB On Ramp,operational
+CBDS 14 WB Off Ramp,operational
+CBDS 21 EB On Ramp,operational
+CBDS 21 WB,operational
+IWZ3090 - I-29 SB @ IA 92,operational
+IWZ 4012 SB Ramp,off
+I-80 IWZ 4071 WB,off
+I-80 IWZ 4071 EB,off
+CBDS 48 SB OR,operational
+CBDS 48 NB OR,operational
+IWZ3090 - I-29 NB @ IA 92,operational
+CBDS 08 EB_2,operational
+I-80 CBDS 55 WB On Ramp from S 2,operational
+I-80 CBDS 55 WB,operational
+I-80 CBDS 55 EB,operational
+I-80 CBDS 56 EB On Ramp from S 2,operational
+I-80 CBDS 56 EB,operational
+I-80 CBDS 57 EB Off Ramp to S Ex,failed
+I-80 CBDS 58 WB,operational
+I-80 CBDS 58 EB,off
+CBDS-59-WB,operational
+CBDS-59-WBR,operational
+CBDS 60 SB,off
+I-80 CBDS 55 WB Off Ramp to S 24,operational
+CBDS 17 I-80 WB,operational
+CBDS 17 I-80 EB,operational
+CBDS 17 I-29 NB,operational
+CBDS 17 I-29 SB,operational
+CBDS 43 NB On Ramp              ,operational
+CBDS 43 SB Off Ramp             ,operational
+IWZ3060 - IA 92 WB @ Valley View,off
+IWZ3060 - IA 92 EB @ Valley View,off
+CBDS 45 SB Off Ramp             ,operational
+CBDS 61 I-80 WB,operational
+CBDS 61 I-80 EB,operational
+CBDS 35 NB                      ,operational
+CBDS 38 SB Off Ramp,operational
+CBDS 51 WB On Ramp from I-29 SB,operational
+CBDS50 - I-29 NB On Ramp @ Old M,operational
+CBDS50 - I-29 SB Off Ramp @ I-68,operational
+CBDS71 - I-80 EB Off Ramp @ I-29,operational
+CBDS 49 NB On Ramp              ,operational
+CBDS 49 SB Off Ramp             ,operational
+IWZ3090 - I-29 SB Off Ramp @ IA ,operational
+CBDS 18 SB Off from I-80 EB,off
+CBDS31 - I-29 SB On Ramp @ Nebra,operational
+CBDS31 - I-29 NB Off Ramp @ Nebr,operational
+I-80 WB Wapsi to Hoover,operational
+I-80 EB Hoover to Wapsi,operational
+I-80 WB Hoover to Lynden Hgts,operational
+I-80 EB Lynden Hgts to Hoover,operational
+I-80 WB Lynden Hgts to Prairie d,operational
+I-80 EB Praire du Chen to Lynden,operational
+I-80 WB Prairie du Chen to River,operational
+I-80 EB River to Prairie du Chen,operational
+I-80 WB River to 127th,operational
+I-80 EB 127th to River,operational
+I-80 WB 127th to East of Coral R,operational
+I-80 EB East of Coral Ridge to 1,operational
+I-80 WB Coral Ridge Int.,operational
+I-80 EB Coral Ridge Int.,operational
+I-80 WB West of Coral Ridge to 2,operational
+I-80 EB 2nd to West of Coral Rid,operational
+I-80 WB 2nd to I-380,operational
+I-80 EB I-380 to 2nd,operational
+I-80 WB I-380 to West of Jasper,operational
+I-80 EB West of Jasper to I-380,operational
+I-80 WB West of Jasper to West o,operational
+I-80 EB West of Ireland to West ,operational
+I-80 WB West of Ireland to Half ,operational
+I-80 EB Half Moon to West of Ire,operational
+US 218 NB Iowa 1 to Rohret,operational
+US 218 SB Rohret to Iowa 1,operational
+US 218 NB Rohret to North of Mel,operational
+US 218 SB North of Melrose to Ro,operational
+US 218 NB North of Melrose to 35,operational
+US 218 SB 355th St to North of M,operational
+US 218 NB 355th St. to I-80,operational
+US 218 SB I-80 to 355th St.,operational
+I-380 NB I-80 to North of US 6,operational
+I-380 SB North of US 6 to I-80,operational
+I-380 NB North of US 6 to 270th ,operational
+I-380 SB 270th St. to North of U,operational
+I-380 NB 270th St. to North of P,operational
+I-380 SB North of Penn to 270th ,operational
+I-380 NB North of Penn to North ,operational
+I-380 SB North of Swan Lake to N,operational
+I-380 NB North of Swan Lake to N,operational
+I-380 SB North of River to North,operational
+I-380 NB North of River to 140th,operational
+I-380 SB 140th St. to North of R,operational
+I-380 NB 140th St. to North of 1,operational
+I-380 SB North of 120th St. to 1,operational
+I-380 NB North of 120th St. to S,off
+I-380 SB  South of Wright Brothe,off
+I-380 NB South of Wright Brother,off
+I-380 SB South of 76th Ave. to S,off
+I-380 NB South of 76th Ave. to 6,off
+I-380 SB 66th Ave. to South of 7,off
+I-380 NB 66th Ave. to US 30,off
+I-380 SB US 30 to 66th Ave.,off
+I-380 WLDS-14 SB,operational
+I-380 WLDS-15 SB,operational
+I-380 WLDS-12 SB,operational
+I-380 to US-20 WLDS-12 SB,operational
+I-380 WLDS-11 SB,operational
+I-380 WLDS-10 SB,operational
+I-380 WLDS-09 SB,operational
+I-380 WLDS-08 SB,operational
+I-380 WLDS-07 SB,operational
+US-20 WLDS-06 EB,operational
+I-380 WLDS-05 SB,operational
+US-20 WLDS-04 EB,operational
+US-20 WLDS-03 EB,operational
+US-20 WLDS-02 EB,operational
+US-20 WLDS-01 EB,operational
+US-20 WLDS-01 WB,operational
+US-20 WLDS-02 WB,operational
+US-20 WLDS-03 WB,operational
+US-20 WLDS-04 WB,operational
+US-20 WLDS-06 WB,operational
+I-380 WLDS-07 NB,operational
+I-380 WLDS-08 NB,operational
+I-380 WLDS-09 NB,operational
+I-380 WLDS-10 NB,operational
+I-380 WLDS-11 NB,operational
+I-380 WLDS-13 NB,operational
+US-20 to I-380 WLDS-13 NB,operational
+I-380 WLDS-14 NB,operational
+I-380 WLDS-15 NB,operational
+I-80 OXDS01 WB,operational
+I-80 OXDS02 WB,operational
+I-80 OXDS03 WB,operational
+I-80 OXDS03 EB,operational
+I-80 OXDS02 EB,operational
+I-80 OXDS01 EB,operational
+I-380 WLDS-17 NB,operational
+I-380 WLDS-17 SB,operational
+I-380 WLDS-18 NB,operational
+I-380 WLDS-18 SB,operational
+I-380 WLDS-16 NB,operational
+I-380 WLDS-16 SB,operational
+I-380 WLDS-16 SB Ramp,operational
+I-380 IWZ 4019 SB,off
+I-380 IWZ 4018 SB,off
+I-380 IWZ 4046 SB,off
+I-380 IWZ 4011 WB,off
+I-380 IWZ 4045 NB,off
+I-380 IWZ 4032 NB,off
+US 218 IWZ 4044 NB,off
+US 218 IWZ 4044 SB,off
+US 218 IWZ 4023 NB,off
+US 218 IWZ 4023 SB,off
+US 20 IWZ 4025 WB,off
+US 20 IWZ 4025 EB,off
+I-80 IWZ 4017 WB,off
+I-80 IWZ 4017 EB,off
+I-80 IWZ 4008 WB,off
+I-80 IWZ 4008 EB,off
+I-80 IWZ 4013 EB,off
+I-80 IWZ 4013 WB,off
+US 20 IWZ 3073 EB,off
+US 20 IWZ 3073 WB,off
+US 20 IWZ 3093 EB,off
+US 20 IWZ 3093 WB,off
+I-380 IWZ 216 SB,off
+I-380 IWZ 216 NB,off
+I-80 EB Coral Ridge Int. On Ramp,operational
+I-80 EB East of Coral Ridge to 1,operational
+I-80 WB 127th to East of Coral R,operational
+I-80 EB 2nd to West of Coral Rid,operational
+I-80 WB West of Coral Ridge to 2,operational
+IWZ2005 - I-380 NB @ MM 6.82,off
+IWZ2005 - I-380 SB @ MM 6.82,off
+IWZ 3062 NB,off
+IWZ 3062 SB,off
+I-80 WB Coral Ridge Int. On Ramp,operational
+US 30 EB @ MP 135.5,operational
+US 30 EB @ IA 17,operational
+US 30 EB @ MP 139,operational
+US 30 EB @ U Ave,operational
+US 30 EB @ MP 142,operational
+US 30 EB @ County Rd R38,operational
+US 30 EB @ County Rd R38,operational
+US 30 EB @ 520th Ave,operational
+US 30 EB @ MP 146.6,operational
+US 30 EB @ MP 147.2,operational
+US 30 EB @ MP 148.1,operational
+US 30 EB @ US 69,operational
+US 30 EB @ MP 148.7,operational
+US 30 EB @ S Dayton Ave,operational
+US 30 EB @ I-35,operational
+US 30 EB @ MP 152,operational
+US 30 EB @ 580th Ave,operational
+US 30 EB @ 600th Ave,operational
+US 30 EB @ County Highway S14,operational
+US 30 EB @ S 11th St,operational
+US 30 EB @ S 19th St,operational
+US 30 WB @ S 19th St,operational
+US 30 WB @ S 11th St,operational
+US 30 WB @ County Highway S14,operational
+US 30 WB @ 600th Ave,operational
+US 30 WB @ 580th Ave,operational
+US 30 WB @ MP 152,operational
+US 30 WB @ I-35,operational
+US 30 WB @ S Dayton Ave,operational
+US 30 WB @ MP 148.7,operational
+US 30 WB @ US 69,operational
+US 30 WB @ MP 148.1,operational
+US 30 WB @ MP 147.2,operational
+US 30 WB @ MP 146.6,operational
+US 30 WB @ 520th Ave,operational
+US 30 WB @ County Rd R38,operational
+US 30 WB @ County Rd R38,operational
+US 30 WB @ MP 142,operational
+US 30 WB @ U Ave,operational
+US 30 WB @ MP 139,operational
+US 30 WB @ IA 17,operational
+US 30 WB @ MP 135.5,operational
+I-35 SB @ County Highway E29,operational
+I-35 SB @ E 13th St,operational
+I-35 SB @ E Lincoln Way,operational
+I-35 SB @ US 30 North,failed
+I-35 SB @ US 30 South,operational
+I-35 SB S of US 30,operational
+I-35 SB @ County Rd E57,operational
+I-35 SB @ MP 107.8,operational
+I-35 SB @ MP 105.7,operational
+I-35 SB @ Heart of Iowa Nature T,operational
+I-35 SB @ IA 210,operational
+I-35 SB @ NE 158th Ave,operational
+I-35 SB @ NE 142nd Ave,operational
+I-35 SB @ NE 126th Ave,operational
+I-35 SB @ NE 36th St,operational
+I-35 SB @ MP 94,operational
+I-35 NB @ MP 94,operational
+I-35 NB @ NE 36th St,operational
+I-35 NB @ NE 126th Ave,operational
+I-35 NB @ NE 142nd Ave,operational
+I-35 NB @ NE 158th Ave,operational
+I-35 NB @ IA 210,operational
+I-35 NB @ Heart of Iowa Nature T,operational
+I-35 NB @ MP 105.7,operational
+I-35 NB @ MP 107.8,operational
+I-35 NB @ County Rd E57,operational
+I-35 NB S of US 30,operational
+I-35 NB @ US 30 South,operational
+I-35 NB @ US 30 North,failed
+I-35 NB @ E Lincoln Way,operational
+I-35 NB @ E 13th St,operational
+I-35 NB @ County Highway E29,operational
+US 30 EB @ MP 142 Exit Ramp,operational
+US 30 EB @ County Rd R38 Entranc,operational
+US 30 WB @ MP 146.6 Exit Ramp,operational
+US 30 EB @ MP 148.1 Exit Ramp,operational
+US 30 EB @ US 69 Entrance Ramp,off
+US 30 EB @ S 19th St Exit Ramp,operational
+US 30 WB @ MP 148.7 Exit Ramp,operational
+US 30 WB @ MP 146.6 Entrance Ram,operational
+US 30 EB @ I-35 Exit Ramp,off
+I-35 SB S of US 30 Entrance Ramp,operational
+I-35 SB S of US 30 Exit Ramp,operational
+US 30 EB @ S 19th St Entrance Ra,operational
+I-35 @ 220th St SB,off
+I-35 @ 220th St NB,off
+I-35 @ 250th St SB,off
+I-35 @ 250th St NB,off
+I-35 @ 250th St SB,off
+I-35 @ 250th St NB,off
+I-35 @ 320th St SB,off
+I-35 @ 320th St NB,off
+I-35 @ 330th St NB,off
+I-35 @ 330th St SB,off
+I-35 @ 340th St NB,off
+I-35 @ 340th St SB,off
+I-35 @ 350th St NB,off
+I-35 @ 350th St SB,off
+I-35 @ 360th St NB,off
+I-35 @ 360th St SB,off
+I-35 @ 380th St NB,off
+I-35 @ 380th St SB,off
+I-35 NB Off Ramp US-30 WB,operational
+I-35 NB On Ramp US-30 WB        ,operational
+PEEK TEST                       ,operational
+US 30 WB @ MP 142 On Ramp LL    ,operational
+US 30 WB @ MP 147.2 Exit Ramp,operational
+US 30 EB @ MP 147.2 Entrance Ram,operational
+I-35 NB @ US 30 South Entrance R,operational
+I-35 SB @ US 30 South Exit Ramp ,operational
+US 30 EB @ MP 148.7 Entrance Ram,operational
+IWZ2990 - US 20 EB @ I-35 SB Off,off
+IWZ2990 - US 20 WB @ I-35 SB On ,off
+IWZ2992 - US 20 EB @ MM 152.2,off
+IWZ2992 - US 20 WB @ MM 152.2,off
+IWZ2994 - US 20 EB @ MM 154.15,off
+IWZ2994 - US 20 WB @ MM 154.15,off
+IWZ2999 - US 20 EB @ Vail Ave,off
+IWZ2999 - US 20 WB @ Vail Ave,off
+IWZ3053 - I-35 SB @ MM 185.1,off
+IWZ3053 - I-35 NB @ MM 185.1,off
+IWZ3546 - I-35 NB @ MM 183.2,off
+IWZ3546 - I-35 SB @ MM 183.2,off
+IWZ3553 - I-35 NB @ MM 186.05,off
+IWZ3553 - I-35 SB @ MM 186.05,off
+ADR1000 - I-29 NB @ MM 63.95,off
+ADR1000 - I-29 SB @ MM 63.95,off
+ADR1020 - I-29 NB @ MM 28.55    ,operational
+ADR1020 - I-29 SB @ MM 28.55    ,operational
+ADR1040 - I-35 NB @ MM 136,operational
+ADR1040 - I-35 SB @ MM 136,operational
+ADR1060 - I-35 NB @ MM 13.40,operational
+ADR1060 - I-35 SB @ MM 13.40,operational
+ADR1090 - I-35 NB @ MM 200.15,off
+ADR1090 - I-35 SB @ MM 200.15,off
+ADR1100 - I-80 EB @ MM 32.80,operational
+ADR1100 - I-80 WB @ MM 32.80,operational
+ADR1110 - I-80 EB @ MM 221.95,operational
+ADR1110 - I-80 WB @ MM 221.95,operational
+ADR1130 - I-380 NB @ MM 45,operational
+ADR1130 - I-380 SB @ MM 45,operational
+ADR1150 - I-80 EB @ MM 62.35,off
+ADR1150 - I-80 WB @ MM 62.35,off
+ADR1160 - I-80 EB @ MM 120.65,off
+ADR1160 - I-80 WB @ MM 120.65,off
+ADR1190 - I-80 EB @ MM 302.85,off
+ADR1190 - I-80 WB @ MM 302.85,off
+ADR1200 - I-80 EB @ MM 262,off
+ADR1200 - I-80 WB @ MM 262,off
+ADR1210 - I-35 NB @ MM 153.20,off
+ADR1210 - I-35 SB @ MM 153.20,off
+ADR1230 - I-80 EB @ MM 146.85,off
+ADR1230 - I-80 WB @ MM 146.85,off
+ADR1240 - I-680 EB @ MM 23.05,operational
+ADR1240 - I-680 WB @ MM 23.05,operational
+ADR1250 - I-380 NB @ M M 5.95,off
+ADR1250 - I-380 SB @ M M 5.95,off
+ADR2020 - US 71 @ MM 83.00,operational
+ADR2020 - US 71 SB @ MM 83.00,operational
+ADR2050 - US 218 NB @ MM 52.35,operational
+ADR2050 - US 218 SB @ MM 52.35,operational
+ADR2070 - US 18 EB @ MM 132.35,operational
+ADR2070 - US 18 WB @ MM 132.35,operational
+ADR2100 - US 18 EB @ MM 46.60,off
+ADR2100 - US 18 WB @ MM 46.60,off
+ADR2140 - US 61 NB @ MM 45.25,off
+ADR2140 - US 61 SB @ MM 45.25,off
+ADR2160 - US 34 EB @ MM 95.95,operational
+ADR2160 - US 34 WB @ MM 95.95,operational
+ADR2170 - IA 122 EB @ MM 3.00,off
+ADR2170 - IA 122 WB @ MM 3.00,off
+ADR2190 - IA 122 EB @ MM 113.25,operational
+ADR2190 - IA 122 WB @ MM 113.25,operational
+ADR2210 - IA 9 EB @ MM 98.90,operational
+Edit me - ADR2210 - IA 9 WB @ MM,operational
+ADR2220 - IA 3 EB @ MM 138.25,off
+ADR2220 - IA 3 WB @ MM 138.25,off
+ADR2230 - IA 3 NB @ MM 38.65,operational
+ADR2230 - IA 3 SB @ MM 38.65,operational
+ADR2240 - US 59 NB @ MM 89.55,off
+ADR2240 - US 59 SB @ MM 89.55,off
+ADR2300 - US 169 NB @ MM 63.95,operational
+ADR2300 - US 169 SB @ MM 63.95,operational
+ADR2340 - IA 12 NB @ MM 21.65,operational
+ADR2340 - IA 12 SB @ MM 21.65,operational
+ADR2380 - IA 149 NB @ MM 24.15,operational
+ADR2380 - IA 149 SB @ MM 24.15,operational
+ADR2400 - IA 2 EB @ MM 18.25,operational
+ADR2400 - IA 2 WB @ MM 18.25,operational
+ADR2410 - IA 13 NB @ MM 33.35,operational
+ADR2410 - IA 13 SB @ MM 33.35,operational
+ADR2420 - US 61 NB @ MM 133.60,operational
+ADR2420 - US 61 SB @ MM 133.60,operational
+ADR2430 - US 30 EB @ MM 318.75,off
+ADR2430 - US 30 WB @ MM 318.75,off
+ADR2440 - IA 1 NB @ MM 71.20,off
+ADR2440 - IA 1 SB @ MM 71.20,off
+ADR2450 - US 20 EB @ MM 244.75,operational
+ADR2450 - US 20 WB @ MM 244.75,operational
+ADR2460 - IA 141 EB @ MM 131.40,off
+ADR2460 - IA 141 WB @ MM 131.40,off
+ADR2480 - IA 21 NB @ MM 48.45,operational
+ADR2480 - IA 21 SB @ MM 48.45,operational
+ADR2490 - US 216 NB @ MM 86.15,off
+ADR2490 - US 216 SB @ MM 86.15,off
+ADR2500 - US 65 NB @ MM 80.75,operational
+ADR2500 - US 65 SB @ MM 80.75,operational
+ADR2520 - US 18 NB @ MM 253.20,off
+ADR2520 - US 18 SB @ MM 235.20,off
+ADR2530 - US 216 NB @ MM 225.15,operational
+ADR2530 - US 216 SB @ MM 225.15,operational
+ADR2540 - IA 60 NB @ MM 53.70,operational
+ADR2540 - IA 60 SB @ MM 53.70,operational
+ADR2550 - US 20 EB @ MM 169.85,off
+ADR2550 - US 20 WB @ MM 169.85,off
+ADR2560 - US 18 EB @ MM 182.00,off
+ADR2560 - US 18 WB @ MM 182.00,off
+ADR2570 - US 20 EB @ MM 41.50,off
+ADR2570 - US 20 WB @ MM 41.50,off
+ADR2580 - US 30 EB @ MM 229.45,off
+ADR2580 - US 30 WB @ MM 229.45,off
+ADR2590 - US 30 EB @ MM 268.95,operational
+ADR2590 - US 30 WB @ MM 268.95,operational
+ADR2600 - US 71 NB @ MM 0.65,off
+ADR2600 - US 71 SB @ MM 0.65,off
+ADR2610 - US 69 NB @ MM 167.60,off
+ADR2610 - US 69 SB @ MM 167.60,off
+ADR2620 - US 63 NB @ MM 8.70,operational
+ADR2620 - US 63 SB @ MM 8.70,operational
+ADR2630 - US 52 NB @ MM 91.75,operational
+ADR2630 - US 52 SB @ MM 91.75,operational
+ADR2640 - IA 27 NB @ MM 0.65,off
+ADR2640 - IA 27 SB @ MM 0.65,off
+ADR2660 - IA 2 EB @ MM 190.65,off
+ADR2660 - IA 2 WB @ MM 190.65,off
+ADR2670 - US 34 EB @ MM 22.85,operational
+ADR2670 - US 34 WB @ MM 22.85,operational
+ADR2680 - US 30 EB @ MM 41.40,operational
+ADR2680 - US 30 WB @ MM 41.40,operational
+ADR2690 - US 30 EB @ MM 117.55,operational
+ADR2690 - US 30 WB @ MM 117.55,operational
+ADR2700 - US 71 NB @ MM 168.80,operational
+ADR2700 - US 71 SB @ MM 168.80,operational
+ADR2710 - US 18 EB @ MM 110.35,operational
+ADR2710 - US 18 WB @ MM 110.35,operational
+ADR2720 - US 71 NB @ MM 53.75,operational
+ADR2720 - US 71 SB @ MM 53.75,operational
+ADR2730 - US 34 EB @ MM 151.05,off
+ADR2730 - US 34 WB @ MM 151.05,off
+ADR2740 - IA 163 NB @ MM 37.35,off
+ADR2740 - IA 163 SB @ MM 37.35,off
+ADR2750 - US 20 EB @ MM 303.50,off
+ADR2750 - US 20 WB @ MM 303.50,off
+ADR2760 - US 63 NB @ MM 227.30,operational
+ADR2760 - US 63 SB @ MM 227.30,operational
+ADR2770 - US 34 EB @ MM 200.65,off
+ADR2770 - US 34 WB @ MM 200.65,off
+ADR2790 - IA 13 NB @ MM 50.10,operational
+ADR2790 - IA 13 SB @ MM 50.10,operational
+ADR2800 - IA 2 EB @ MM 117.30,off
+ADR2800 - IA 2 WB @ MM 117.30,off
+ADR2850 - US 20 EB @ MM 98.00,operational
+ADR2850 - US 20 WB @ MM 98.00,operational
+ADR2860 - US 34 EB @ MM 2.00,off
+ADR2860 - US 34 WB @ MM 2.00,off
+ADR5010 - IA 5 NB @ MM 30.20,operational
+ADR5010 - IA 5 SB @ MM 30.20,operational
+ADR5030 - IA 415 EB @ MM 13.40,off
+ADR5030 - IA 415 WB @ MM 13.40,off
+ADR7050 - I-74 NB @ MM 3.50,operational
+ADR7050 - I-74 SB @ MM 3.50,operational
+ADR7080 - I-280 EB @ MM 8.90,off
+ADR7080 - I-280 WB @ MM 8.90,off
+ADR8110 - IA 192 NB @ MM 3.75,off
+ADR8110 - IA 192 SB @ MM 3.75,off
+ADR8120 - IA 122 EB @ MM 8.95,operational
+ADR8120 - IA 122 WB @ MM 8.95,operational
+ADR8160 - US 34 EB @ MM 260.35,off
+ADR8160 - US 34 WB @ MM 260.35,off
+ADR8200 - IA 17 NB @ MM 70.65,operational
+ADR8200 - IA 17 SB @ MM 70.65,operational
+ADR8260 - US 65 NB @ MM 86.50,operational
+ADR8260 - US 65 SB @ MM 86.50,operational
+ADR8300 - IA 23 NB @ MM 15.10,off
+ADR8300 - IA 23 SB @ MM 15.10,off
+ADR2810 - US 151 NB @ MM 60.55,off
+ADR2810 - US 151 SB @ MM 60.55,off
+ADR8280 - IA 150 NB @ MM 54.95,operational
+ADR8280 - IA 150 SB @ MM 54.95,operational
+US 20 SDSC-23 NB,operational
+US 20 SDSC-23 SB,operational
+US 75 SDSC-24 SB,operational
+US 75 SDSC-24 NB,operational
+US 20 SDSC-22 SB,operational
+US 20 SDSC-22 NB,operational
+US 20 SDSC-21 EB,operational
+US 20 SDSC-21 WB,operational
+US 20 SDSC-19 EB,operational
+US 20 SDSC-18 EB,operational
+I-29 SDSC-01 SB,operational
+I-29 SDSC-01 NB,operational
+I-29 SDSC-02 SB,operational
+I-29 SDSC-02 NB,operational
+I-29 SDSC-03 SB,operational
+I-29 SDSC-03 NB,operational
+I-29 SDSC-04 SB,operational
+I-29 SDSC-04 NB,operational
+I-29 SDSC-05 SB,operational
+I-29 SDSC-05 NB,operational
+US 20 SDSC-06 WB,operational
+US 20 SDSC-06 EB,operational
+US 20 SDSC-07 WB,operational
+US 20 SDSC-07 EB,operational
+I-29 SDSC-08 SB,operational
+I-29 SDSC-08 NB,operational
+I-29 SDSC-09 NB,operational
+I-29 SDSC-09 SB,operational
+I-29 SDSC-10 NB,off
+I-29 SDSC-10 SB,off
+I-29 SDSC-11 NB T,failed
+I-29 SDSC-11 SB T,failed
+I-29 SDSC-12 NB,operational
+I-29 SDSC-12 SB,operational
+I-29 SDSC-13 NB,operational
+I-29 SDSC-13 SB,operational
+I-29 SDSC-14 NB,off
+I-29 SDSC-14 SB,off
+I-29 SDSC-16 NB,operational
+I-29 SDSC-16 SB,operational
+I-29 SDSC-17 EB,operational
+I-29 SDSC-17 WB,operational
+US 20 SDSC-18 WB,operational
+US 20 SDSC-19 WB,operational
+US 20 SDSC-20 NB,operational
+US 20 SDSC-20 SB,operational
+I-29 SCDS-15 NB,operational
+I-29 SCDS-15 SB,operational
+I-29 SCDS-26 NB,operational
+I-29 SCDS-26 SB,operational
+I-29 SCDS-28 SB Exit Ramp Downto,off
+I-29 SCDS-29 NB,operational
+I-29 SCDS-29 SB,operational
+US 20 SDSC-21 EB Off Ramp       ,operational
+US 20 SDSC-21 WB On Ramp        ,operational
+I-29 SDSC-12 SB On Ramp,operational
+I-29 SDSC-08 SB Ramp            ,operational
+US 20 SDSC-19 EB Off Ramp,operational
+US 20 SDSC-19 WB On Ramp,operational
+I-29 SDSC-16 NB Off Ramp        ,operational
+I-29 SDSC-16 SB On Ramp         ,operational
+I-29 SDSC-11 NB Off Ramp T,failed
+I-29 SDSC-12 NB Off Ramp,operational
+US 20 SDSC-22 NB Off Ramp,operational
+US 20 SDSC-22 SB On Ramp        ,operational
+US 20 SDSC-18 EB On Ramp,operational
+US 20 SDSC-18 WB Off Ramp,operational
+I-29 SDSC-02 SB On Ramp,operational
+I-29 SDSC-02 NB Off Ramp,operational
+I-29 SCDS-30 SB                 ,operational
+I-29 SCDS-30 NB                 ,operational
+I-29 SCDS-31 SB                 ,failed
+I-29 SCDS-31 NB                 ,failed
+DMTT06 - I-29 SB @ MM 148.83 T,operational
+DMTT06 - I-29 NB @ MM 148.83 T,operational
+DMTT06 - I-29 NB On Ramp @ MM 14,operational
+DMTT06 - I-29 NB Off Ramp @ MM 1,operational
+US 20 SDSC-23 NB Off Ramp       ,operational
+I-29 SDSC-13 NB Off Ramp to Hami,operational
+I-29 SDSC-13 NB On Ramp from Wes,operational
+I-235 NB from EUCLID-EB,operational
+I-235 NB from EUCLID-WB,operational
+I-235 NB from EUCLID-EB-R,operational
+I-235 NB from EUCLID-WB-R,operational
+I-235 NB EUCLID LOOP-EB,operational
+I-235 NB EUCLID LOOP-WB,operational
+I-235 NB EUCLID LOOP-EB-R,operational
+I-235 NB EUCLID LOOP-WB-R,operational
+I-235 WB at Washington-EB,operational
+I-235 WB at Washington-WB,operational
+I-235 WB at Washington-EB-R,operational
+I-235 EB at E 21st St-EB,operational
+I-235 EB at E 21st St-WB,operational
+I-235 EB at E 21st St-WB-R,operational
+I-235 WB 9th STREET WALL-WB,operational
+I-235 WB 9th STREET WALL-WB-R,operational
+I-235 EB 9th STREET WALL-EB,operational
+I-235 EB 9th STREET WALL-EB-R,operational
+I-235 WB at WALKWAY-WB,failed
+I-235 WB at WALKWAY-WB-R,failed
+I-235 EB at WALKWAY-EB,operational
+I-235 EB at WALKWAY-EB-R,operational
+I-235 WB WEST END of BRIDGE-EB,operational
+I-235 WB WEST END of BRIDGE-WB,operational
+I-235 WB WEST END of BRIDGE-WB-R,operational
+I-235 EB to MLK-EB,operational
+I-235 EB to MLK-WB,operational
+I-235 EB 28th STREET-EB,operational
+I-235 EB 28th STREET-WB,operational
+I-235 at 42nd STREET EB-EB,operational
+I-235 at 42nd STREET EB-WB,operational
+I-235 EB EAST OF 63RD-EB,operational
+I-235 EB EAST OF 63RD-WB,operational
+I-235 EB EAST OF 63RD-EB-R,operational
+I-235 EB EAST OF 63RD-WB-R,operational
+I-235 EB @ 8th Street Loop-EB,operational
+I-235 EB @ 8th Street Loop-WB,operational
+I-235 EB @ 8th Street Loop-EB-R,operational
+I-235 EB @ 8th Street Loop-WB-R,operational
+I-235 WB E of 22nd STREET-EB,operational
+I-235 WB E of 22nd STREET-WB,operational
+I-235 WB E of 22nd STREET-EB-R,operational
+I-235 WB E of 22nd STREET-WB-R,operational
+I-235 EB from Vly West Dr-EB,operational
+I-235 EB from Vly West Dr-WB,operational
+I-235 EB from Vly West Dr-EB-R,operational
+I-235 EB from Vly West Dr-WB-R,operational
+I-235 EB to VALLEY WEST-EB,operational
+I-235 EB to VALLEY WEST-WB,operational
+I-235 EB to VALLEY WEST-EB-R,operational
+I-235 EB to VALLEY WEST-WB-R,operational
+I-80-EB at WEST MIX-EB,operational
+I-80 WB-EB at WEST MIX-WB,operational
+I-80/235 WB-EB at WEST MIX-EB-R,operational
+I-80/235 WB-EB at WEST MIX-WB-R,operational
+I-35 SB at WEST MIXER-NB,operational
+I-35 SB at WEST MIXER-SB,operational
+I-35 SB at WEST MIXER-SB-R,operational
+I-35/80 NB to HICKMAN-NB,operational
+I-35/80 NB to HICKMAN-SB,operational
+I-35/80 NB to HICKMAN-SB-R,operational
+I-35/80 NB to DOUGLAS-NB,operational
+I-35/80 NB to DOUGLAS-SB,operational
+I-35/80 NB to DOUGLAS-NB-R,operational
+I-35/80 SB from IA-141-NB,operational
+I-35/80 SB from IA-141-SB,operational
+I-35/80 SB from IA-141-SB-R,operational
+EB to 86th STREET-EB,operational
+EB to 86th STREET-WB,operational
+I-35/80 EB to MERLE HAY-EB,operational
+I-35/80 EB to MERLE HAY-WB,operational
+I-35/80 EB to MERLE HAY-EB-R,operational
+I-35/80 EB to MERLE HAY-WB-R,operational
+I-35/80 EB WEST of 2nd AVENUE-EB,operational
+I-35/80 EB WEST of 2nd AVENUE-WB,operational
+I-35/80 EB to 2nd AVENUE-EB,operational
+I-35/80 EB to 2nd AVENUE-WB,operational
+I-35/80 EB to 2nd AVENUE-EB-R,operational
+I-35/80 EB to 2nd AVENUE-WB-R,operational
+I-35/80 EB from 2nd AVENUE-EB,operational
+I-35/80 EB from 2nd AVENUE-WB,operational
+I-35/80 EB from 2nd AVENUE-EB-R,operational
+I-35/80 EB from 2nd AVENUE-WB-R,operational
+I-35/80 WB to 14th STREET-EB,operational
+I-35/80 WB to 14th STREET-WB,operational
+I-35/80 WB to 14th STREET-EB-R,operational
+I-35/80 WB to 14th STREET-WB-R,operational
+I-35 NB at NORTH MSG SIGN-NB,operational
+I-35 SB at NORTH MSG SIGN-SB,operational
+I-35 SB at NORTH MSG SIGN-NB-R,operational
+I-80 EB @ HUBBELL-WB,off
+I-80 EB at US-65 SB LOOP-EB,operational
+I-80 WB at US-65 SB LOOP-WB,operational
+I-80 WB at US-65 SB LOOP-WB-R,operational
+Hwy65 South of I-80-NB,operational
+Hwy65 South of I-80-SB,operational
+Hwy65 South of I-80-NB-R,operational
+Hwy65 South of I-80-SB-R,operational
+US-65 NB at 46th AVENUE-NB,operational
+US-65 NB at 46th AVENUE-SB,operational
+US-65 SB to UNIVERSITY-NB,operational
+US-65 SB to UNIVERSITY-SB,operational
+US-65 SB to VANDALIA ROAD-NB,failed
+US-65 SB to VANDALIA ROAD-SB,failed
+US-65 SB to VANDALIA ROAD-NB-R,failed
+US-65 SB to VANDALIA ROAD-SB-R,failed
+US-65 SB at SE 64th STREET-NB,operational
+US-65 SB at SE 64th STREET-SB,operational
+US-65 SB at SE 64th STREET-NB-R,off
+US-65 NB to SE 64th-NB,operational
+US-65 NB to SE 64th-SB,operational
+US-65 NB to SE 64th-NB-R,operational
+US-65 NB to SE 64th-SB-R,operational
+US- 65 @ US-69 EAST-EB,operational
+US- 65 @ US-69 EAST-WB,operational
+US- 65 @ US-69 EAST-EB-R,operational
+US- 65 @ US-69 EAST-WB-R,operational
+US-65 EB from/to US-69-EB,operational
+US-65 EB from/to US-69-WB,operational
+US-65 EB from/to US-69-EB-R,operational
+US-65 EB from/to US-69-WB-R,operational
+IA-5 EAST of SW 9th-EB,operational
+IA-5 EAST of SW 9th-WB,operational
+IA-5 EAST of SW 9th-EB-R,operational
+IA-5 EAST of SW 9th-WB-R,operational
+IA-5 EB to FLEUR DRIVE-EB,operational
+IA-5 EB to FLEUR DRIVE-WB,operational
+IA-5 EB to FLEUR DRIVE-EB-R,operational
+IA-5 EB to FLEUR DRIVE-WB-R,operational
+IA-5 WEST of IA-28-EB,operational
+IA-5 WEST of IA-28-WB,operational
+IA-5 EB to SW CONNECTOR-EB,operational
+IA-5 EB to SW CONNECTOR-WB,operational
+IA-5 EB to SW CONNECTOR-EB-R,operational
+IA 5 at MILE MARKER 103.55-EB,operational
+IA 5 at MILE MARKER 103.55-WB,operational
+IA 5 at MILE MARKER 103.55-WB-R,operational
+I-35 NB EXIT to GRAND AVE-NB,off
+I-35 NB EXIT to GRAND AVE-SB,off
+I-35 NB EXIT to GRAND AVE-NB-R,off
+I-35 NB EXIT to GRAND AVE-SB-R,off
+I-35 NB to MILLS PARKWAY-NB,operational
+I-35 SB to MILLS PARKWAY-SB,operational
+I-35 SB to MILLS PARKWAY-NB-R,operational
+I-35 SB to MILLS PARKWAY-SB-R,operational
+I-35 NB at I-235 EB EXIT-NB,off
+I-35 NB at I-235 EB EXIT-SB,off
+I-35 NB at I-235 EB EXIT-NB-R,off
+I-35 NB at I-235 EB EXIT-SB-R,off
+I-80 EB at I-35 SB EXIT-EB,operational
+I-80 EB at I-35 SB EXIT-WB,operational
+I-80 EB at I-35 SB EXIT-EB-R,operational
+I-80 EB at I-35 SB EXIT-WB-R,operational
+I-80 EB at JORDAN CRK PKWY-EB,operational
+I-80 EB at JORDAN CRK PKWY-WB,operational
+I-80 EB at JORDAN CRK PKWY-EB-R,operational
+I-80 EB at JORDAN CRK PKWY-WB-R,operational
+I-80 WB at JORDAN CRK PKWY-EB,operational
+I-80 WB at JORDAN CRK PKWY-WB,operational
+I-80 WB at JORDAN CRK PKWY-WB-R,operational
+I-80 EB at WEST MESSAGE SIGN-EB,operational
+I-80 EB at WEST MESSAGE SIGN-WB,operational
+I-35 NB to CORPORATE WOODS-NB,operational
+I-35 SB to CORPORATE WOODS-SB,operational
+I-35 SB to CORPORATE WOODS-NB-R,operational
+I-35 SB to CORPORATE WOODS-SB-R,operational
+I-35 NB to ORALABOR ROAD-NB,operational
+I-35 SB to ORALABOR ROAD-SB,operational
+I-35 SB to ORALABOR ROAD-NB-R,off
+I-35 SB to ORALABOR ROAD-SB-R,operational
+I-35 NB at 1st AVE ANKENY-NB,operational
+I-35 NB at 1st AVE ANKENY-SB,operational
+I-35 NB North of Grand Portable-,operational
+I-35 NB DMDS69 @ Grand Ave-SB,operational
+I-35 NB at Ashworth Rd WDM-NB,operational
+I-35 NB at Ashworth Rd WDM-SB,operational
+I-80 WB at 52nd Street,operational
+I-80 WB at Newton OH DMS,operational
+I-80 WB at IA 14,operational
+I-80 WB at W 4th Street,operational
+I-80 WB at E 12th Street,operational
+I-80 WB at Speedway Drive,operational
+I-80 WB at 84th Street,operational
+I-80 WB at Hwy T22,operational
+I-80 WB at 108th Street,operational
+I-80 EB at 108th Street,operational
+I-80 EB at 84th Street,operational
+I-80 EB at Hwy T22,operational
+I-80 EB at Speedway Drive,operational
+I-80 EB at E 12th Street,operational
+I-80 EB at W 4th Street,operational
+I-80 EB at IA 14,operational
+I-80 EB at Newton OH DMS,operational
+I-80 EB at 52nd Street,operational
+I-80 EB @ NE 62nd Ave - Altoona,operational
+I-80 WB @ NE 62nd Ave - Altoona,operational
+I-35/80 EB @ NE 22nd Ave - DSM,operational
+I-80 EB East of 1st Ave N - Alto,failed
+I-80 EB @ NE 38th St - Altoona,operational
+I-80 WB @ NE 38th St - Altoona,operational
+I-80 WB @ DMS - Altoona,operational
+I-80 EB @ DMS - Altoona,operational
+I-80 WB @ Hubbell - Altoona,operational
+I-80 EB @ Hubbell - Altoona,operational
+I-80 EB @ Sign truss exit 137B -,operational
+I-80 WB @ Sign truss exit 137B -,operational
+I-80 WB East of 1st Ave N - Alto,failed
+I-80 EB Between US65N and US65S,off
+I-80 WB Between US65N and US65S,off
+I-35 NB North of East Mix,operational
+I-35 SB North of East Mix,operational
+I-235 EB @ DMS,operational
+I-235 WB @ DMS,operational
+I-235 EB @ Sign Truss,operational
+I-235 WB @ Sign Truss,operational
+I-235 EB @ Guthrie Ave,operational
+I-235 WB @ Guthrie Ave,operational
+I-235 EB West of University,operational
+I-235 WB @ Sign Truss,operational
+I-235 WB @ Sign Truss,operational
+I-235 EB @ Sign Truss,operational
+I-235 EB @ Sign Truss,operational
+I-235 @ Sign Truss-EB,operational
+I-235 @ Sign Truss-WB,operational
+I-235 WB @ Sign Truss,operational
+I-235 NB Exit Ramp,operational
+I-235 WB West of University,operational
+I-235 WB @ Sign Truss,operational
+US 65 @ E Oakwood Dr SB,off
+US 65 @ E Oakwood Dr NB,off
+I-35 NB @ MP 67,off
+I-35 SB @ MP 67,off
+I-80 EB @ F 90,off
+I-80 WB @ F 90,off
+IWZ 3075 NB,off
+IWZ 3075 SB,off
+IA 5 WB @ MP 101,off
+IA 5 EB @ MP 101,off
+I-80 IWZ 4003 WB,off
+I-80 IWZ 4038 EB_2,off
+I-80 IWZ 4038 WB_2,off
+I-80 IWZ 4035 EB,off
+I-80 IWZ 4035 WB,off
+I-35/80 @ MP 128.5,operational
+I-35/80 EB @ NW 26th St,operational
+I-35/80 @ MP 127.5,operational
+I-35/80 @ MP 127.5,operational
+I-35/80 @ MP 127.5,operational
+I-35/80 @ MP 127.5,operational
+I-35/80 NB @ MP 126.5,operational
+I-35/80 NB @ MP 126.5,operational
+I-35/80 SB @ MP 126.5,operational
+I-35 NB @ MP 124,operational
+I-35 NB @ MP 124,operational
+I-35 SB @ MP 124,operational
+I-35 SB @ MP 124,operational
+I-35 SB @ MP 68.57,operational
+I-35 SB @ MP 68.57,operational
+I-35 NB @ MP 68.57,operational
+I-35 NB @ MP 68.57,operational
+I-35/80 WB @ NW 44th St,operational
+I-35/80 EB @ NW 44th St,operational
+I-35/80 EB @ NW Beaver Dr,operational
+I-35/80 WB @ NW 26th St,operational
+I-35/80 WB @ NW Beaver Dr,operational
+I-35/80 EB @ Iowa 28,operational
+I-35/80 EB @ Iowa 28,operational
+I-35/80 WB @ Iowa 28,operational
+I-35/80 WB @ Iowa 28,operational
+I-35/80 EB @ 72nd St,operational
+I-35/80 WB @ 72nd St,operational
+I-35/80 EB @ 86th St,operational
+I-35/80 WB @ 86th St,operational
+I-35/80 WB @ 86th St,operational
+I-35/80 @ MP 128.5,operational
+I-80 IWZ 4061 EB_2,off
+I-80 IWZ 4061 WB_2,off
+I-80 IWZ 4060 NB_2,off
+I-80 IWZ 4060 SB_2,off
+I-80 IWZ 4058 WB_OR_2,off
+I-80 IWZ 4063 WB_2,off
+I-80 IWZ 4063 EB_2,off
+I-80 IWZ 4066 NB_OR_2,off
+I-80 IWZ 4071 WB_2,off
+I-80 IWZ 4071 EB_2,off
+IWZ 4033 Ramp,off
+I-80 EB ramp to I-35 SB West Mix,operational
+I-80 EB ramp to I-80/35 EB/NB We,operational
+I-80/35 EB/NB Ramp from West Mix,operational
+I-235 EB @ Sign Truss           ,operational
+IWZ3062 - I-80 WB @ MM 177.00,off
+IWZ3062 - I-80 EB @ MM 177.00,off
+IWZ 3066 WB,off
+IWZ 3066 EB,off
+IWZ3063 - I-35 NB @ MM 55.65,operational
+IWZ3063 - I-35 SB @ MM 55.65,operational
+IWZ3084 - I-35 NB @ IA 92,operational
+IWZ3084 - I-35 SB @ IA 92,operational
+IWZ3089 - I-80 EB @ MM 149.5,off
+IWZ3089 - I-80 WB @ MM 149.5,off
+IWZ3520 - I-35 NB @ MM 54.35,operational
+IWZ 3518 EB,off
+IWZ 3518 WB,off
+IWZ3520 - I-35 SB @ MM 54.35,operational
+IWZ 3087 WB On Ramp,off
+IWZ629 - I-35 SB @ MM 57.55,failed
+IWZ 3516 WB,off
+IWZ 3516 EB,off
+US-65 SB @ MP 75.3              ,operational
+US-65 NB @ MP 75.3              ,operational
+I-80 EB @ 34th Ave NW           ,operational
+I-80 WB @ 34th Ave NW           ,operational
+I-80 EB @ 34th Ave NW Off Ramp  ,operational
+I-80 EB Off Ramp @ DMS - Altoona,operational
+IWZ 3087 WB,off
+IWZ 3087 EB,off
+IWZ 3087 EB Off Ramp,off
+IWZ 3516 EB Off Ramp,off
+IWZ 3516 WB On Ramp,off
+IWZ 3507 EB,off
+IWZ 3507 WB,off
+IWZ 3507 WB On Ramp,off
+I-80 WB On Ramp @ Hubbell - Alto,operational
+IWZ2989 - US 65 NB @ MM 62,off
+IWZ2989 - US 65 SB @ MM 62,off
+IWZ3083 - US 65 NB @ MM 63,off
+IWZ3083 - US 65 SB @ MM 63,off
+IWZ3527 - I-35 SB @ Decatur Rest,off
+IWZ3555 - I-35 SB @ south of US ,off
+IWZ3556 - I-35 NB @ IA-MO border,off
+IWZ3556 - I-35 SB @ IA-MO border,off
+IWZ3555 - I-35 NB @ south of US ,off
+IWZ3527 - I-35 NB @ Decatur Rest,off
+IWZ629 - I-35 NB @ MM 57.55,failed
+IWZ3093 - I-35 SB @ MM 58.8,operational
+IWZ3093 - I-35 NB @ MM 58.8,operational
+IWZ3073 - I-35 NB @ MM 53.63,failed
+IWZ3073 - I-35 SB @ MM 53.63,failed
+IWZ3554 - I-35 NB @ MM 111.4 (IL,off
+IWZ3554 - I-35 SB @ MM 111.4 (IL,off
+IWZ3085 - I-35 NB @ MM 112 (IL),off
+IWZ3085 - I-35 SB @ MM 112 (IL),off
+IWZ3069 - I-80 EB @ Hwy T38 On R,off
+IWZ3069 - I-80 WB @ Hwy T38 Off ,off
+IWZ2005 - I-80 EB @ MM 178.20,off
+IWZ2005 - I-80 WB @ MM 178.20,off
+IWZ3309 - I-80 EB @ Grinnell RA,off
+IWZ3309 - I-80 WB @ Grinnell RA,off
+IWZ2995 - I-80 EB @ MM 172.50,off
+IWZ2995 - I-80 WB @ MM 172.50,off
+IWZ3091 - I-80 EB @ MM 176.35,off
+IWZ3091 - I-80 WB @ MM 176.35,off
+IWZ2987 - I-80 EB @ MM 175.55,off
+IWZ2987 - I-80 WB @ MM 175.55,off
+IWZ2992 - I-80 EB @ US 169,off
+IWZ2992 - I-80 WB @ US 169,off
